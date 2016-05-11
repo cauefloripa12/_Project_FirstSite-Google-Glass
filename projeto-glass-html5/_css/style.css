@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+	background: url("_imagens/fundo-01.jpg");
+	color: rgba(255, 255, 255, 1.0);
+    }
+p{
+	text-align: left;
+	text-align: justify;
+	text-indent: 30px;
+    }
+h1{
+	text-align: center;
+    }
+h2{
+	text-align: left;
+    }
